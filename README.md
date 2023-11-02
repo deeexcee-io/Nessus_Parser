@@ -1,5 +1,5 @@
 # Nessus_Parser
-Collection of Python Scripts to Parse a .nessus file making life easier for reporting - txt, docx and xlsx
+Collection of my own Simple Python Scripts to Parse a .nessus file making life easier for reporting - txt, docx and xlsx
 
 ## Nessus Text Output {PowerShell/cmd)
 
