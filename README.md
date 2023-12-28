@@ -1,6 +1,6 @@
 # Nessus_Parser
 Collection of my own Simple Python Scripts to Parse a .nessus file making life easier for reporting - txt, docx and xlsx
-
+#chatgpt 💻🧠
 ## Nessus Text Output {PowerShell/cmd)
 
 ```powershell
